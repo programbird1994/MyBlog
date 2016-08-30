@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-=======
-这是我在github上写的第一篇技术博客~
-THX
-in remote repository add one line;
->>>>>>> 69a711f624dd8aa10c347d6a664469ffda7a0679
+﻿update in repository2
+huyang
